@@ -7,7 +7,7 @@ import scalether.domain.implicits._
 import io.daonomic.blockchain.poller.tries.implicits._
 import io.daonomic.rpc.JsonConverter
 import scalether.domain.Address
-import org.web3j.utils
+import org.web3jold.utils
 import scalether.core.json.EthereumJacksonModule
 import scalether.sync.SemaphoreTrySynchronizer
 import scalether.transaction._

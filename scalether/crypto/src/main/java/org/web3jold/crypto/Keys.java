@@ -1,7 +1,7 @@
-package org.web3j.crypto;
+package org.web3jold.crypto;
 
-import org.web3j.utils.Numeric;
-import org.web3j.utils.Strings;
+import org.web3jold.utils.Numeric;
+import org.web3jold.utils.Strings;
 
 import java.math.BigInteger;
 

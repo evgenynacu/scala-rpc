@@ -2,9 +2,9 @@ package scalether.transaction
 
 import java.math.BigInteger
 
-import org.web3j.crypto.Sign
-import org.web3j.crypto.Sign.SignatureData
-import org.web3j.rlp.{RlpEncoder, RlpList, RlpString, RlpType}
+import org.web3jold.crypto.Sign
+import org.web3jold.crypto.Sign.SignatureData
+import org.web3jold.rlp.{RlpEncoder, RlpList, RlpString, RlpType}
 import scalether.domain.request.Transaction
 import scalether.transaction.TransactionSigner._
 import scalether.util.{Bytes, Hex}

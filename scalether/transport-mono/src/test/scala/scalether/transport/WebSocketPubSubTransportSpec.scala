@@ -6,7 +6,7 @@ import java.util.function.Consumer
 import io.daonomic.cats.mono.implicits._
 import io.daonomic.rpc.mono.{WebSocketReconnectingClient, WebSocketRpcTransport}
 import org.scalatest.FlatSpec
-import org.web3j.utils
+import org.web3jold.utils
 import reactor.core.publisher.Mono
 import scalether.core.{EthPubSub, Ethereum, MonoEthereum}
 import scalether.domain.request.Transaction

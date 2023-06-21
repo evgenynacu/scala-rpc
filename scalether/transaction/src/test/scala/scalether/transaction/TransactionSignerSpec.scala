@@ -2,7 +2,7 @@ package scalether.transaction
 
 import org.scalatest.FlatSpec
 import org.scalatest.prop.PropertyChecks
-import org.web3j.rlp.RlpString
+import org.web3jold.rlp.RlpString
 import scalether.domain.implicits._
 import scalether.domain.request.Transaction
 import scalether.test.Generators

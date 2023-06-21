@@ -1,7 +1,7 @@
-package org.web3j.utils;
+package org.web3jold.utils;
 
-import org.web3j.exceptions.MessageDecodingException;
-import org.web3j.exceptions.MessageEncodingException;
+import org.web3jold.exceptions.MessageDecodingException;
+import org.web3jold.exceptions.MessageEncodingException;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
